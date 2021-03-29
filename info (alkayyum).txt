@@ -1,0 +1,14 @@
+(Super) Username ->
+Password ->
+
+Project Url -> 
+
+Using Database -> PostgreSQL
+Database Name -> alkayyum
+
+
+Project Name -> alkayyum
+1st App Name -> home
+
+Email -> alkayyumujjain@gmail.com
+Password -> alkayyum@123
