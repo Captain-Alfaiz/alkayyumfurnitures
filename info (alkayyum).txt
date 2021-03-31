@@ -1,7 +1,7 @@
 (Super) Username ->
 Password ->
 
-Project Url -> 
+Project Url -> alkayyumfurnitures.herokuapp.com
 
 Using Database -> PostgreSQL
 Database Name -> alkayyum
